@@ -1,6 +1,6 @@
 # _Etsy_
 
-#### _This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5. It will help a user track their calories and diet-type from their vegan foods._
+#### _This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5._
 
 #### _Etsy, {05.06.2018}_
 
@@ -20,7 +20,10 @@ _This app will let you shop from different online artisans._
 
 ### Specs
 
-
+1) App should have a tab to search for items or shops.
+2) App should have a tab to sell on Etsy, register, sign in, or view their cart.
+3) App should have a tabs to view jewelry & accessories, clothes & shoes, home & living, wedding & party, toys & entertainment, art & collectibles, craft supplies & tools, and vintage.
+4) App should display different items on home page.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
